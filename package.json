@@ -1,0 +1,9 @@
+{
+  "name": "eslint-action-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/macklinu/eslint-action-test.git",
+  "author": "Mackie Underdown <macklinu@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true
+}
